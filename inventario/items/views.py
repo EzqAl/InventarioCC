@@ -8,4 +8,4 @@ def item_list(request):
 
 
 def index(request):
-    return HttpResponse("Hello, world. You're at the items index.")
+    return HttpResponse("Hola.")
