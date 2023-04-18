@@ -16,7 +16,8 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from inventario.items import views
+from items import views
+
 
 
 
